@@ -1,4 +1,4 @@
-# Monster Metropolis
+# Remade Dino Game
 To run this game please download the zip files or make a copy by cloning this project. Once the project is downloaded/cloned please use the command ./gradlew lwjgl3:run (if you are using Windows) in the terminal to start the game.
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
